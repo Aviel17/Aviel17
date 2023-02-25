@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aviel17
-- 👀 I’m interested in Data Science & Analytics
+- 👀 I’m interested in Data Science & Analytics in a variety of industries
 - 🌱 I’m currently learning RapidMiner, SQL, Tableau, Python, Javascript, JMP, RStudio, VBA, and Salesforce CRM
 - 📫 How to reach me: (312)934-4159 or aviel.rodriguez@emory.edu
+- 📜 Wanna take a look at my resume? Check it out: [Rodriguez_Aviel_Resume.pdf](https://github.com/Aviel17/Aviel17/files/10831862/Rodriguez_Aviel_Resume.pdf)
